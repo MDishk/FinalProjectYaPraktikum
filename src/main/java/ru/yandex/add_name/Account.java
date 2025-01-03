@@ -1,6 +1,7 @@
 package ru.yandex.add_name;
 
 public class Account {
+
     private final String name;
 
     public Account(String name) {
